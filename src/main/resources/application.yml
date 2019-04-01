@@ -1,0 +1,5 @@
+spring:
+  data:
+    elasticsearch:
+      clusterName: codesafe-es
+      clusterNodes: 172.24.62.162:9301,172.24.62.162:9302,172.24.62.162:9303
